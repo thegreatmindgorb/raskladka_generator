@@ -1,1 +1,1 @@
-123
+Generator of compact raskladkas for pohods
